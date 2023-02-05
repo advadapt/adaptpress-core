@@ -1,0 +1,2 @@
+# adaptpress-core
+AdaptPress Core
